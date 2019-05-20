@@ -217,7 +217,7 @@ function init_gear_sets()
 	
     sets.precast.WS['Evisceration'] = {
 	ammo="ライヴブレット",
-	head="ムンムボンネット+1",
+	head="ムンムボンネット+2",
     body="ムンムジャケット+2",
     hands="ムンムリスト+1",
     legs="ムンムケックス+2",
@@ -442,7 +442,7 @@ function init_gear_sets()
 
     sets.midcast.CorsairShot.Acc = {
 	ammo="ライヴブレット",
-	head="ムンムボンネット+1",
+	head="ムンムボンネット+2",
     body="オショシベスト+1",
     hands="ムンムリスト+1",
     legs="ムンムケックス+2",
@@ -458,7 +458,7 @@ function init_gear_sets()
 
     sets.midcast.CorsairShot['Light Shot'] = {
 	ammo="ライヴブレット",
-	head="ムンムボンネット+1",
+	head="ムンムボンネット+2",
     body="オショシベスト+1",
     hands="ムンムリスト+1",
     legs="ムンムケックス+2",
